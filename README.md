@@ -36,7 +36,7 @@ git clone https://github.com/mohamedirfansh/Caerula-Theme.git
 
 ### Sublime Text
 
-1. Open Sublime text and click on **Preferences -> Browse Packages** .
+1. Open Sublime Text and click on **Preferences -> Browse Packages** .
 
 2. Copy the folder named `Caerula-Sublime` to the **Packages** folder in Sublime Text.
 
