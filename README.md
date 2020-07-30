@@ -1,13 +1,14 @@
 <p align="center">
-  <img alt="Halcyon Logo" src="images/logo.png" width="100" />
+  <img alt="Caerula Logo" src="images/logo.png" width="100" />
 </p>
 <h1 align="center">
   Caerula Theme
 </h1>
 <p align="center">
-  A minimal, dark blue theme for Sublime Text.
+  A minimal, high contrast, dark blue theme for Sublime Text and VS Code.
 </p>
 <p align="center">
+    <img alt="Version" src="https://img.shields.io/github/v/release/mohamedirfansh/Caerula-Theme">
     <img alt="Version" src="https://img.shields.io/badge/Made for-Sublime-orange" />
     <img alt="Version" src="https://img.shields.io/badge/Made for-VS Code-blue" />
     <img alt="Version" src="https://img.shields.io/badge/Made for-Atom-brightgreen" />
@@ -38,13 +39,21 @@ git clone https://github.com/mohamedirfansh/Caerula-Theme.git
 
 1. Open Sublime Text and click on **Preferences -> Browse Packages** .
 
-2. Copy the folder named `Caerula-Sublime` to the **Packages** folder in Sublime Text.
+2. Copy the folder named `caerula-sublime` to the **Packages** folder in Sublime Text.
 
-3. Activate the theme by going to **Preferences -> Color Scheme** then click on `Caerula` and enjoy! 😄
+3. Activate the theme by going to **Preferences -> Color Scheme** then select `Caerula` and enjoy! 😄
+
+> Note: If Caerula doesn't appear restart Sublime Text and follow step 3 again.
 
 ### VS Code
 
-1. --
+1. Copy the folder named `caerula-vscode` to the VS Code extension directory which is:
+    + on **Windows** is at `%USERPROFILE%\.vscode\extensions`
+    + on **Mac/Linux** is at `$HOME/.vscode/extensions`
+
+2. Activate the theme going to **File -> Preferences -> Color Theme** then select `Caerula` and enjoy! 😄
+
+> Note: If Caerula doesn't appear restart VS Code and follow step 2 again.
 
 ### Atom
 
