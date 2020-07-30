@@ -47,11 +47,11 @@ git clone https://github.com/mohamedirfansh/Caerula-Theme.git
 
 ### VS Code
 
-1. Copy the folder named `caerula-vscode` to the VS Code extension directory which is:
+1. Copy the folder named `caerula-vscode` to the VS Code extension directory which:
     + on **Windows** is at `%USERPROFILE%\.vscode\extensions`
     + on **Mac/Linux** is at `$HOME/.vscode/extensions`
 
-2. Activate the theme going to **File -> Preferences -> Color Theme** then select `Caerula` and enjoy! 😄
+2. Activate the theme by going to **File -> Preferences -> Color Theme** then select `Caerula` and enjoy! 😄
 
 > Note: If Caerula doesn't appear restart VS Code and follow step 2 again.
 
@@ -60,6 +60,8 @@ git clone https://github.com/mohamedirfansh/Caerula-Theme.git
 1. --
 
 ## Colour Palette
+
+![Colour Palette](images/colours.png)
 
 ## License
 
