@@ -1,0 +1,41 @@
+{
+    "name": "caerula-vscode",
+    "displayName": "Caerula Theme",
+    "description": "A minimal, high contrast, dark blue color theme",
+    "version": "1.0.0",
+    "publisher": "Mohamed Irfan",
+    "icon": "logo.png",
+    "author": {
+      "name": "Mohamed Irfan"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mohamedirfansh/Caerula-Theme"
+    },
+    "bugs": {
+      "url": "https://github.com/mohamedirfansh/Caerula-Theme/issues"
+    },
+    "homepage": "https://github.com/mohamedirfansh/Caerula-Theme/blob/master/README.md",
+    "engines": {
+      "vscode": "^1.18.0"
+    },
+    "categories": [
+      "Themes"
+    ],
+    "keywords": [
+      "Themes",
+      "Dark Theme",
+      "color-theme",
+      "Caerula", 
+      "Dark Blue"
+    ],
+    "contributes": {
+      "themes": [
+        {
+          "label": "Caerula",
+          "uiTheme": "vs-dark",
+          "path": "./themes/Caerula.tmTheme"
+        }
+      ]
+    }
+  }
