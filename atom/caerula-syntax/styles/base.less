@@ -1,0 +1,249 @@
+@import "syntax-variables";
+
+atom-text-editor {
+  background-color: @syntax-background-color;
+  color: @syntax-text-color;
+}
+
+atom-text-editor .gutter {
+  background-color: @syntax-gutter-background-color;
+  color: @syntax-gutter-text-color;
+}
+
+atom-text-editor .gutter .line-number.cursor-line {
+  background-color: @syntax-gutter-background-color-selected;
+  color: @syntax-gutter-text-color-selected;
+}
+
+atom-text-editor .gutter .line-number.cursor-line-no-selection {
+  color: @syntax-gutter-text-color-selected;
+}
+
+atom-text-editor .wrap-guide {
+  color: @syntax-wrap-guide-color;
+}
+
+atom-text-editor .indent-guide {
+  color: @syntax-indent-guide-color;
+}
+
+atom-text-editor .invisible-character {
+  color: @syntax-invisible-character-color;
+}
+
+atom-text-editor.is-focused .cursor {
+  border-color: @syntax-cursor-color;
+}
+
+atom-text-editor.is-focused .selection .region {
+  background-color: @syntax-selection-color;
+}
+
+atom-text-editor.is-focused .line-number.cursor-line-no-selection, atom-text-editor.is-focused .line.cursor-line {
+  background-color: #6079AB;
+}
+
+.syntax--comment {
+  color: #6B8C94;
+}
+
+.syntax--variable.syntax--parameter.syntax--function {
+  color: #FFFFFF;
+}
+
+.syntax--none {
+  color: #FFFFFF;
+}
+
+.syntax--keyword.syntax--operator {
+  color: #FCA141;
+}
+
+.syntax--keyword {
+  color: #FCA141;
+}
+
+.syntax--variable {
+  color: #e06c75;
+}
+
+.syntax--entity.syntax--name.syntax--function, .syntax--meta.syntax--require, .syntax--support.syntax--function.syntax--any-method {
+  color: #00E6FF;
+}
+
+.syntax--support.syntax--class, .syntax--entity.syntax--name.syntax--class, .syntax--entity.syntax--name.syntax--type.syntax--class {
+  color: #FFFF00;
+}
+
+.syntax--meta.syntax--class {
+  color: #FFFF00;
+}
+
+.syntax--keyword.syntax--other.syntax--special-method {
+  color: #61afef;
+}
+
+.syntax--storage {
+  color: #E3EA9F;
+}
+
+.syntax--support.syntax--function {
+  color: #61afef;
+}
+
+.syntax--string {
+  color: #17DB09;
+}
+
+.syntax--constant.syntax--numeric {
+  color: #FF859B;
+}
+
+.syntax--none {
+  color: #FF859B;
+}
+
+.syntax--none {
+  color: #FF4A4A;
+}
+
+.syntax--constant {
+  color: #FF859B;
+}
+
+.syntax--entity.syntax--name.syntax--tag {
+  color: #e06c75;
+}
+
+.syntax--entity.syntax--other.syntax--attribute-name {
+  color: #e5c07b;
+}
+
+.syntax--entity.syntax--other.syntax--attribute-name.syntax--id, .syntax--punctuation.syntax--definition.syntax--entity {
+  color: #e5c07b;
+}
+
+.syntax--meta.syntax--selector {
+  color: #c678dd;
+}
+
+.syntax--markup.syntax--heading .syntax--punctuation.syntax--definition.syntax--heading, .syntax--entity.syntax--name.syntax--section {
+  color: #61afef;
+}
+
+.syntax--markup.syntax--bold, .syntax--punctuation.syntax--definition.syntax--bold {
+  color: #c678dd;
+}
+
+.syntax--markup.syntax--italic, .syntax--punctuation.syntax--definition.syntax--italic {
+  color: #c678dd;
+}
+
+.syntax--markup.syntax--raw.syntax--inline {
+  color: #98c379;
+}
+
+.syntax--meta.syntax--link {
+  color: #98c379;
+}
+
+.syntax--markup.syntax--list {
+}
+
+.syntax--markup.syntax--quote {
+  color: #98c379;
+}
+
+.syntax--source.syntax--java .syntax--meta.syntax--class.syntax--java .syntax--meta.syntax--method.syntax--java {
+  color: #dcdfe4;
+}
+
+.syntax--source.syntax--java .syntax--meta.syntax--class.syntax--java .syntax--meta.syntax--class.syntax--body.syntax--java {
+  color: #dcdfe4;
+}
+
+.syntax--source.syntax--js .syntax--meta.syntax--function.syntax--js .syntax--variable.syntax--parameter.syntax--function.syntax--js {
+  color: #e06c75;
+}
+
+.syntax--source.syntax--js .syntax--variable.syntax--other.syntax--readwrite.syntax--js {
+  color: #e06c75;
+}
+
+.syntax--source.syntax--js .syntax--variable.syntax--other.syntax--object.syntax--js {
+  color: #dcdfe4;
+}
+
+.syntax--source.syntax--js .syntax--meta.syntax--function-call.syntax--method.syntax--js .syntax--variable.syntax--other.syntax--readwrite.syntax--js {
+  color: #e06c75;
+}
+
+.syntax--source.syntax--js .syntax--meta.syntax--block.syntax--js .syntax--variable.syntax--other.syntax--readwrite.syntax--js {
+  color: #e06c75;
+}
+
+.syntax--source.syntax--js .syntax--meta.syntax--block.syntax--js .syntax--variable.syntax--other.syntax--object.syntax--js {
+  color: #dcdfe4;
+}
+
+.syntax--source.syntax--js .syntax--meta.syntax--block.syntax--js .syntax--meta.syntax--function-call.syntax--method.syntax--js .syntax--variable.syntax--other.syntax--readwrite.syntax--js {
+  color: #dcdfe4;
+}
+
+.syntax--source.syntax--js .syntax--meta.syntax--function-call.syntax--method.syntax--js .syntax--variable.syntax--function.syntax--js {
+  color: #dcdfe4;
+}
+
+.syntax--source.syntax--js .syntax--meta.syntax--property.syntax--object.syntax--js .syntax--entity.syntax--name.syntax--function.syntax--js {
+  color: #61afef;
+}
+
+.syntax--source.syntax--js .syntax--support.syntax--constant.syntax--prototype.syntax--js {
+  color: #dcdfe4;
+}
+
+.syntax--meta.syntax--separator {
+}
+
+.syntax--markup.syntax--inserted {
+  color: #98c379;
+}
+
+.syntax--markup.syntax--deleted {
+  color: #e06c75;
+}
+
+.syntax--markup.syntax--changed {
+  color: #e5c07b;
+}
+
+.syntax--string.syntax--regexp {
+  color: #98c379;
+}
+
+.syntax--constant.syntax--character.syntax--escape {
+  color: #FF859B;
+}
+
+.syntax--punctuation.syntax--section.syntax--embedded, .syntax--variable.syntax--interpolation {
+}
+
+.syntax--invalid.syntax--illegal {
+  color: #dcdfe4;
+  background-color: #e06c75;
+}
+
+.syntax--invalid.syntax--broken {
+  color: #dcdfe4;
+  background-color: #e5c07b;
+}
+
+.syntax--invalid.syntax--deprecated {
+  color: #dcdfe4;
+  background-color: #e5c07b;
+}
+
+.syntax--invalid.syntax--unimplemented {
+  color: #dcdfe4;
+  background-color: #c678dd;
+}
