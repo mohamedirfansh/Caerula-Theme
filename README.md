@@ -5,7 +5,7 @@
   Caerula Theme
 </h1>
 <p align="center">
-  A minimal, high contrast, dark blue theme for Sublime Text and VS Code.
+  A minimal, high contrast, dark blue theme for Sublime Text, VS Code and Atom.
 </p>
 <p align="center">
     <img alt="Version" src="https://img.shields.io/github/v/release/mohamedirfansh/Caerula-Theme">
@@ -18,14 +18,14 @@
 </p>
 
 ## Demo
-### Python
-![Python](images/demo_python.png)
+### Sublime
+![Sublime](images/demo_sublime.png)
 
-### Java
-![Java](images/demo_java.png)
+### VS Code
+![VS Code](images/demo_vscode.png)
 
-### C
-![C](images/demo_c.png)
+### Atom
+![Atom](images/demo_atom.png)
 
 ## Downloading
 Download the theme by either using the [GitHub .zip download](https://github.com/mohamedirfansh/Caerula-Theme/archive/master.zip) option or by running this command in your terminal:
@@ -37,27 +37,39 @@ git clone https://github.com/mohamedirfansh/Caerula-Theme.git
 
 ### Sublime Text
 
-1. Open Sublime Text and click on **Preferences -> Browse Packages** .
+1. Open Sublime Text and click on **Preferences -> Browse Packages** . 
 
-2. Copy the folder named `caerula-sublime` to the **Packages** folder in Sublime Text.
+2. Navigate to the `sublime` folder: `Caerula-Theme/sublime`.
 
-3. Activate the theme by going to **Preferences -> Color Scheme** then select `Caerula` and enjoy! 😄
+3. Copy the folder named `Caerula Theme` to the **Packages** folder in Sublime Text.
 
-> Note: If Caerula doesn't appear restart Sublime Text and follow step 3 again.
+4. Activate the theme by going to **Preferences -> Color Scheme** then select `Caerula` and enjoy! 😄
+
+> Note: If Caerula doesn't appear restart Sublime Text and repeat step 4.
 
 ### VS Code
 
-1. Copy the folder named `caerula-vscode` to the VS Code extension directory which:
+1. Navigate to the `vscode` folder: `Caerula-Theme/vscode`.
+
+2. Copy the folder named `caerula-theme` to the VS Code extension directory which:
     + on **Windows** is at `%USERPROFILE%\.vscode\extensions`
     + on **Mac/Linux** is at `$HOME/.vscode/extensions`
 
-2. Activate the theme by going to **File -> Preferences -> Color Theme** then select `Caerula` and enjoy! 😄
+3. Activate the theme by going to **File -> Preferences -> Color Theme** then select `Caerula` and enjoy! 😄
 
-> Note: If Caerula doesn't appear restart VS Code and follow step 2 again.
+> Note: If Caerula doesn't appear restart VS Code and repeat step 3.
 
 ### Atom
 
-1. --
+1. Navigate to the `atom` folder: `Caerula-Theme/atom`.
+
+2. Copy the folder named `caerula-syntax` to the Atom extension directory which:
+    + on **Windows** is at `%USERPROFILE%\.atom\packages`
+    + on **Mac/Linux** is at `$HOME/.atom/packages`
+
+3. Activate the theme by going to **Settings -> Themes -> Syntax Theme** then select `Caerula` and enjoy! 😄
+
+> Note: If Caerula doesn't appear restart Atom and repeat step 3.
 
 ## Colour Palette
 
