@@ -17,8 +17,10 @@
     </a>
 </p>
 
+![Banner](images/banner.png)
+
 ## Demo
-### Sublime
+### Sublime Text
 ![Sublime](images/demo_sublime.png)
 
 ### VS Code
