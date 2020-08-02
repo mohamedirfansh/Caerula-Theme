@@ -19,7 +19,7 @@
 
 ![Banner](images/banner.png)
 
-## Demo
+## 📸 Demo
 ### Sublime Text
 ![Sublime](images/demo_sublime.png)
 
@@ -29,13 +29,13 @@
 ### Atom
 ![Atom](images/demo_atom.png)
 
-## Downloading
+## ⬇️ Downloading
 Download the theme by either using the [GitHub .zip download](https://github.com/mohamedirfansh/Caerula-Theme/archive/master.zip) option or by running this command in your terminal:
 ```
 git clone https://github.com/mohamedirfansh/Caerula-Theme.git
 ```
 
-## Installing and Activating
+## 🔧 Installing and Activating
 
 ### Sublime Text
 
@@ -73,11 +73,11 @@ git clone https://github.com/mohamedirfansh/Caerula-Theme.git
 
 > Note: If Caerula doesn't appear restart Atom and repeat step 3.
 
-## Colour Palette
+## 🎨 Colour Palette
 
 ![Colour Palette](images/colours.png)
 
-## License
+## 📄 License
 
 [![GitHub](https://img.shields.io/github/license/mohamedirfansh/Caerula-Theme)](https://github.com/mohamedirfansh/Caerula-Theme/blob/master/LICENSE)
 
