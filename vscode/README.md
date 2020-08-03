@@ -17,7 +17,7 @@ By: [Mohamed Irfan](https://github.com/mohamedirfansh)
 
 ## GitHub Repository
 
-You view the GitHub repository for this theme [here](https://github.com/mohamedirfansh/Caerula-Theme).
+You can view the GitHub repository for this theme [here](https://github.com/mohamedirfansh/Caerula-Theme).
 
 ## License
 
