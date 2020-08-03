@@ -5,7 +5,7 @@
 🎨 A minimal, high contrast, dark blue theme for Sublime Text!  
 By: [Mohamed Irfan](https://github.com/mohamedirfansh)
 
-# Installing on Sublime Text
+## Installing on Sublime Text
 
 1. Open Sublime Text and click on **Preferences -> Browse Packages** . 
 
@@ -17,7 +17,7 @@ By: [Mohamed Irfan](https://github.com/mohamedirfansh)
 
 ## GitHub Repository
 
-You view the GitHub repository for this theme [here](https://github.com/mohamedirfansh/Caerula-Theme).
+You can view the GitHub repository for this theme [here](https://github.com/mohamedirfansh/Caerula-Theme).
 
 ## License
 
