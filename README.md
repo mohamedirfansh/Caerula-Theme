@@ -35,7 +35,7 @@ Download the theme by either using the [GitHub .zip download](https://github.com
 git clone https://github.com/mohamedirfansh/Caerula-Theme.git
 ```
 
-## 🔧 Installing and Activating
+## ⚡️ Installing and Activating
 
 ### Sublime Text
 
