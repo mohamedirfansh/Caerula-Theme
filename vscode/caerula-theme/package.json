@@ -34,7 +34,7 @@
         {
           "label": "Caerula",
           "uiTheme": "vs-dark",
-          "path": "./themes/Caerula.tmTheme"
+          "path": "./themes/Caerula.json"
         }
       ]
     }
