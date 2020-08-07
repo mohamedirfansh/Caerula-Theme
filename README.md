@@ -41,7 +41,7 @@ git clone https://github.com/mohamedirfansh/Caerula-Theme.git
 
 1. Open Sublime Text and click on **Preferences -> Browse Packages** . 
 
-2. Navigate to the `sublime` folder: `Caerula-Theme/sublime`.
+2. Navigate to the `sublime` folder from this repo: `Caerula-Theme/sublime`.
 
 3. Copy the folder named `Caerula Theme` to the **Packages** folder in Sublime Text.
 
@@ -51,7 +51,7 @@ git clone https://github.com/mohamedirfansh/Caerula-Theme.git
 
 ### VS Code
 
-1. Navigate to the `vscode` folder: `Caerula-Theme/vscode`.
+1. Navigate to the `vscode` folder from this repo: `Caerula-Theme/vscode`.
 
 2. Copy the folder named `caerula-theme` to the VS Code extension directory which:
     + on **Windows** is at `%USERPROFILE%\.vscode\extensions`
@@ -63,7 +63,7 @@ git clone https://github.com/mohamedirfansh/Caerula-Theme.git
 
 ### Atom
 
-1. Navigate to the `atom` folder: `Caerula-Theme/atom`.
+1. Navigate to the `atom` folder from this repo: `Caerula-Theme/atom`.
 
 2. Copy the folder named `caerula-syntax` to the Atom extension directory which:
     + on **Windows** is at `%USERPROFILE%\.atom\packages`
